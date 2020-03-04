@@ -5,8 +5,7 @@
 .warp {
   width: 400px;
   height: 600px;
-  margin: 100px auto;
-  border: 1px solid red;
+  margin: 20px auto 0;
   position: relative;
 }
 /* 设定小黄人的身体 */
